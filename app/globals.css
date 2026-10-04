@@ -16,7 +16,7 @@ section { scroll-margin-top: 80px; }
 .display-title { font-size: clamp(3rem, 7vw, 6.5rem); font-weight: 800; letter-spacing: -.07em; line-height: .92; }
 .nav-link { color: #8b8b91; font-size: 13px; }
 .nav-link:hover { color: #fff; }
-.social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 9px 13px; color: #b4b4ba; font-size: 11px; }
+.social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 6px 11px 6px 7px; color: #b4b4ba; font-size: 11px; } .social-pill img { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
   .social-pill:hover { border-color: #a78bfa; color: white; }
   .whatsapp-fab { position: fixed; right: 22px; bottom: 22px; z-index: 40; display: grid; place-items: center; width: 62px; height: 62px; border-radius: 999px; background: #25d366; box-shadow: 0 10px 30px rgba(0,0,0,.38), 0 0 0 5px rgba(37,211,102,.12); transition: transform .2s ease, box-shadow .2s ease; }
   .whatsapp-fab:hover { transform: translateY(-4px) scale(1.04); box-shadow: 0 14px 34px rgba(0,0,0,.42), 0 0 0 7px rgba(37,211,102,.18); }
