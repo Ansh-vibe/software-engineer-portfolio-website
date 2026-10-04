@@ -1,300 +1,246 @@
-<!-- ========================================================= -->
-<!--                    PORTFOLIO README                        -->
-<!-- ========================================================= -->
-
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:030308,50:17112f,100:CCFF00&text=ANSH%20VISHWAKARMA&fontColor=CCFF00&fontSize=58&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20ENGINEER%20%7C%20BUILDER&descSize=15&descAlignY=67&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050816,50:171A3A,100:7C3AED&text=ANSH%20VISHWAKARMA&fontColor=FFFFFF&fontSize=58&fontAlignY=40&desc=FULL-STACK%20DEVELOPER%20%7C%20ENGINEER%20%7C%20BUILDER&descSize=15&descAlignY=67&animation=fadeIn"
     width="100%"
   />
 </p>
 
-<h1 align="center">
-  ⚡ Software Engineer Portfolio
-</h1>
-
-<p align="center">
-  <strong>
-    A modern, interactive and production-focused portfolio built to showcase
-    the engineering journey, projects, skills, experience, certifications,
-    education and achievements of Ansh Vishwakarma.
-  </strong>
-</p>
-
 <p align="center">
   <a href="https://software-engineer-portfolio-website.vercel.app/">
-    <img src="https://img.shields.io/badge/🌐_Live_Portfolio-Visit_Now-CCFF00?style=for-the-badge&logoColor=000000" />
+    <img src="https://img.shields.io/badge/🌐%20Live%20Portfolio-7C3AED?style=for-the-badge&logoColor=white" />
   </a>
-  <a href="https://github.com/Ansh-vibe">
-    <img src="https://img.shields.io/badge/GitHub-Ansh--vibe-181717?style=for-the-badge&logo=github" />
+  <a href="https://github.com/Ansh-vibe/software-engineer-portfolio-website">
+    <img src="https://img.shields.io/badge/💻%20GitHub-050816?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 <p align="center">
   <img
-    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=3000&pause=900&color=CCFF00&center=true&vCenter=true&width=800&lines=Full-Stack+Developer;Software+Engineer;Frontend+Engineer;Backend+Developer;Problem+Solver;Builder+of+Digital+Products;Turning+Ideas+Into+Production-Ready+Systems"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=850&lines=Full-Stack+Developer;Software+Engineer;UI%2FUX+Focused+Builder;Production-Ready+Web+Application+Developer;Turning+Ideas+Into+Digital+Products"
     alt="Typing SVG"
   />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ansh-vibe&label=PROFILE%20VIEWS&color=CCFF00&style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/Ansh-vibe/software-engineer-portfolio-website?style=for-the-badge&color=CCFF00" />
-  <img src="https://img.shields.io/github/last-commit/Ansh-vibe/software-engineer-portfolio-website?style=for-the-badge&color=CCFF00" />
+  <img src="https://komarev.com/ghpvc/?username=Ansh-vibe&label=Profile%20Views&color=7C3AED&style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/Ansh-vibe/software-engineer-portfolio-website?style=for-the-badge&color=7C3AED" />
+  <img src="https://img.shields.io/github/last-commit/Ansh-vibe/software-engineer-portfolio-website?style=for-the-badge&color=7C3AED" />
 </p>
 
 ---
 
-# 🚀 About This Project
+# 🚀 Software Engineer Portfolio
 
 > **More than a portfolio — a reflection of how I think, build, and solve problems through code.**
 
-This repository contains my personal **Software Engineer / Full-Stack Developer Portfolio**, designed to represent my technical journey, engineering mindset, creative approach and passion for building meaningful digital experiences.
+This repository contains my personal **Full-Stack Developer Portfolio**, designed to showcase my technical expertise, projects, professional experience, certifications, education, achievements, and journey as a developer.
 
-The portfolio brings together:
+The portfolio is built around one core idea:
 
-- 🧑‍💻 Technical expertise
-- 🚀 Real-world projects
-- 🏗️ Full-stack development
-- 🎨 Modern UI/UX
-- ⚡ Performance optimization
-- 📱 Responsive design
-- 🧠 Problem-solving
-- 🏆 Certifications
-- 🎓 Education
-- 💼 Professional experience
-- 📊 Technical achievements
-- 🌱 Continuous learning
+> **Don't just show what you built. Show how you think, why you built it, and how you solve problems.**
 
-Every section is intentionally designed to communicate not only **what I build**, but also **how I think, design, engineer and solve problems**.
+From frontend interfaces and backend architecture to databases, APIs, deployment, performance, responsive design, and user experience — every section represents a part of my engineering journey.
 
 ---
 
 # 🌐 Live Portfolio
 
-<p align="center">
+### 🔗 Visit the Website
 
-### 🔗 Explore the Portfolio
+**https://software-engineer-portfolio-website.vercel.app/**
 
-<a href="https://software-engineer-portfolio-website.vercel.app/">
-  <img src="https://img.shields.io/badge/OPEN_LIVE_PORTFOLIO-CCFF00?style=for-the-badge&logo=vercel&logoColor=000000" />
-</a>
+### 💻 Repository
 
-</p>
-
-### Portfolio
-
-**Live Website**
-
-```text
-https://software-engineer-portfolio-website.vercel.app/
-```
-
-### Repository
-
-```text
-https://github.com/Ansh-vibe/software-engineer-portfolio-website
-```
+**https://github.com/Ansh-vibe/software-engineer-portfolio-website**
 
 ---
 
 # 👨‍💻 About Me
 
-I'm **Ansh Vishwakarma**, a Full-Stack Developer and software engineering enthusiast focused on designing and developing modern, scalable and production-ready digital products.
+I'm **Ansh Vishwakarma**, a Full-Stack Developer and Software Engineer focused on building modern, scalable, responsive, and production-ready digital experiences.
 
-I enjoy working across the entire development lifecycle — from understanding an idea and designing the interface to writing code, integrating APIs, managing data, optimizing performance and deploying the final product.
+I enjoy transforming ideas, requirements, wireframes, and business problems into functional software products.
 
-My approach is simple:
+My development approach combines:
 
-```text
-Think → Design → Build → Test → Optimize → Deploy → Improve
-```
+- 🧠 Problem Solving
+- 🎨 UI/UX Design
+- ⚡ Performance Engineering
+- 🧩 Clean Architecture
+- 🔐 Secure Development
+- 📱 Responsive Design
+- 🚀 Production Deployment
+- 📊 Data & Analytics
+- 🔄 Continuous Learning
 
 I believe great software is not only about writing code.
 
-It's about:
+It's about understanding the problem first.
+
+---
+
+# 🧭 What This Portfolio Represents
 
 ```text
-Problem
-   ↓
-Understanding
-   ↓
-Architecture
-   ↓
-Experience
-   ↓
-Engineering
-   ↓
-Performance
-   ↓
-Reliability
-   ↓
-Impact
+                         ┌───────────────────────┐
+                         │         IDEAS         │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │     REQUIREMENTS      │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │     ARCHITECTURE      │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                  ┌────────────────────────────────────┐
+                  │              DEVELOPMENT            │
+                  │                                    │
+                  │  Frontend → Backend → Database     │
+                  │       API → Logic → Security       │
+                  └────────────────┬───────────────────┘
+                                   │
+                                   ▼
+                         ┌───────────────────────┐
+                         │       TESTING         │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │     DEPLOYMENT        │
+                         └───────────┬───────────┘
+                                     │
+                                     ▼
+                         ┌───────────────────────┐
+                         │     REAL USERS        │
+                         └───────────────────────┘
 ```
 
 ---
 
-# 🧠 What This Portfolio Represents
+# ✨ Highlights
 
-```text
-                         ┌─────────────────────┐
-                         │       ANSH.DEV      │
-                         │   SOFTWARE ENGINEER │
-                         └──────────┬──────────┘
-                                    │
-              ┌─────────────────────┼─────────────────────┐
-              │                     │                     │
-              ▼                     ▼                     ▼
-        ┌───────────┐         ┌───────────┐         ┌───────────┐
-        │   BUILD   │         │   DESIGN  │         │   SOLVE   │
-        └─────┬─────┘         └─────┬─────┘         └─────┬─────┘
-              │                     │                     │
-              ▼                     ▼                     ▼
-        Applications            Interfaces           Problems
-        APIs                    UX/UI                Architecture
-        Systems                 Interactions         Performance
-        Platforms               Experience           Scalability
-              │                     │                     │
-              └─────────────────────┼─────────────────────┘
-                                    ▼
-                         ┌─────────────────────┐
-                         │  DIGITAL PRODUCTS  │
-                         └─────────────────────┘
-```
+- ⚡ Modern Full-Stack Developer Portfolio
+- 🎨 Premium UI/UX
+- 📱 Fully Responsive
+- 🖥️ Desktop, Tablet & Mobile Optimized
+- 🧩 Modular Components
+- 🚀 Production-Oriented Architecture
+- 🔄 Smooth Animations
+- 📊 Data-Driven Sections
+- 🧠 Engineering-Focused Content
+- 📚 Certifications & Education
+- 💼 Professional Experience
+- 🏆 Achievements
+- 🛠️ Technical Skills
+- 🚀 Featured Projects
+- 🌐 Live Deployment
+- 🔗 Social & Professional Links
 
 ---
 
-# ✨ Portfolio Highlights
-
-| Feature | Description |
-|---|---|
-| 🎨 Modern UI | Clean, premium and visually engaging interface |
-| 📱 Responsive | Optimized for mobile, tablet and desktop |
-| ⚡ Performance | Focused on fast loading and smooth interactions |
-| 🧩 Modular | Structured components and reusable architecture |
-| 🧠 Engineering | Built around scalability and maintainability |
-| 🎯 UX Focus | Designed for clarity and intuitive navigation |
-| 🔥 Interactive | Smooth animations and micro-interactions |
-| 🚀 Production Ready | Structured for real-world deployment |
-| 🌐 Accessible | Designed with usability and accessibility in mind |
-| 🔄 Maintainable | Clean and organized codebase |
-
----
-
-# 🛠️ Skills & Technical Expertise
+# 🧠 Skills & Technical Expertise
 
 ## 💻 Programming Languages
 
-```text
-C
-C++
-Java
-Python
-JavaScript
-TypeScript
-SQL
-HTML
-CSS
-```
+| Technology | Focus |
+|---|---|
+| C | Programming Fundamentals |
+| C++ | OOP, DSA & Systems |
+| Java | Application Development |
+| Python | Automation, Data & Backend |
+| JavaScript | Web Development |
+| TypeScript | Scalable Applications |
+| SQL | Database Development |
 
 ---
 
-## 🎨 Frontend Development
+# 🎨 Frontend Development
 
-```text
-HTML5
-CSS3
-JavaScript
-TypeScript
-React
-Next.js
-Responsive Design
-Component Architecture
-UI Engineering
-UX Implementation
-Animations
-Micro-interactions
-Performance Optimization
-Accessibility
-```
+- HTML5
+- CSS3
+- JavaScript
+- TypeScript
+- React
+- Next.js
+- Tailwind CSS
+- Responsive Design
+- Component Architecture
+- Accessibility
+- UI/UX
+- Animation
+- Performance Optimization
 
 ---
 
-## ⚙️ Backend Development
+# ⚙️ Backend Development
 
-```text
-Node.js
-REST APIs
-API Integration
-Authentication
-Authorization
-Server-side Logic
-Database Integration
-Backend Architecture
-Error Handling
-Validation
-```
+- Node.js
+- Express.js
+- REST APIs
+- API Integration
+- Authentication
+- Authorization
+- Server-Side Logic
+- Database Integration
+- Error Handling
+- Backend Architecture
 
 ---
 
-## 🗄️ Databases & Data
+# 🗄️ Databases
 
-```text
-SQL
-Relational Databases
-NoSQL Concepts
-Database Design
-CRUD Operations
-Data Modeling
-Query Optimization
-Data Analysis
-```
+- MySQL
+- PostgreSQL
+- MongoDB
+- Firebase
+- SQL
+- Database Design
+- Data Modeling
+- Query Optimization
 
 ---
 
-## 📊 Data & Analytics
+# 📊 Data & Analytics
 
-```text
-Data Visualization
-KPI Analysis
-Dashboard Development
-Business Analytics
-Technical Analytics
-Performance Metrics
-Data-driven Decision Making
-```
+- Data Analysis
+- KPI Dashboards
+- Data Visualization
+- Business Analytics
+- Telecom Analytics
+- Performance Metrics
+- Reporting Systems
 
 ---
 
-## 🌐 Networking
+# ☁️ Cloud & Deployment
 
-```text
-Computer Networks
-TCP/IP
-HTTP / HTTPS
-DNS
-Routing
-Switching
-Network Architecture
-4G LTE
-5G NR
-Network Performance Analysis
-```
+- Vercel
+- GitHub
+- Git
+- CI/CD
+- Production Builds
+- Environment Variables
+- Deployment Optimization
+- Cloud-Based Applications
 
 ---
 
-## ☁️ Cloud & Deployment
+# 🛠️ Development Tools
 
-```text
-Vercel
-GitHub
-Git
-CI/CD Concepts
-Production Deployment
-Environment Variables
-Web Hosting
-Domain Integration
-```
+- Git
+- GitHub
+- VS Code
+- npm
+- Postman
+- Chrome DevTools
+- Figma
+- Linux
+- REST APIs
 
 ---
 
@@ -302,24 +248,24 @@ Domain Integration
 
 | # | Project | Description |
 |---|---|---|
-| 01 | **Echo's of 99** | Creative digital experience and modern web concept |
-| 02 | **Nexora Enterprise** | Enterprise-focused digital platform |
-| 03 | **LearnFlow** | Learning and education-focused platform |
-| 04 | **AV Portfolio** | Personal developer portfolio |
-| 05 | **Gem Comply** | Compliance-oriented digital solution |
-| 06 | **NetSentinel AI** | AI and network monitoring concept |
-| 07 | **Dev OREN** | Developer-focused digital platform |
+| 01 | **Echo's of 99** | Experimental digital experience and creative web project |
+| 02 | **Nexora Enterprise** | Modern enterprise-focused digital platform |
+| 03 | **LearnFlow** | Learning and education-focused application |
+| 04 | **AV Portfolio** | Personal developer portfolio experience |
+| 05 | **Gem Comply** | Compliance-focused digital platform |
+| 06 | **NetSentinel AI** | AI and network security concept |
+| 07 | **Dev OREN** | Developer-focused digital ecosystem |
 | 08 | **Telecom KPI Dashboard** | Telecom analytics and KPI visualization |
-| 09 | **4G LTE & 5G NR KPI Analysis** | Network performance analytics |
+| 09 | **4G LTE & 5G NR KPI Analysis** | Telecom network performance analysis |
 | 10 | **Zynora** | Modern digital product experience |
-| 11 | **Ansh-Dev.ai** | AI-focused developer platform |
-| 12 | **MasterBuild AEC** | Architecture, engineering and construction concept |
-| 13 | **Urban 2040 Flow Pods** | Futuristic urban mobility concept |
-| 14 | **Responsive Resume** | Responsive professional resume |
-| 15 | **Yamaha R15 V4** | Automotive-inspired web experience |
-| 16 | **Ansh Resume** | Personal resume experience |
-| 17 | **Ansh Portfolio** | Developer portfolio implementation |
-| 18 | **GitHub Badges** | Developer profile and GitHub customization |
+| 11 | **Ansh-Dev.ai** | AI-powered developer concept |
+| 12 | **MasterBuild AEC** | Architecture, engineering and construction platform |
+| 13 | **Urban 2040 Flow Pods** | Future-focused mobility concept |
+| 14 | **Responsive Resume** | Responsive digital resume |
+| 15 | **Yamaha R15 V4** | Automotive-focused interactive experience |
+| 16 | **Ansh Resume** | Personal professional resume |
+| 17 | **Ansh Portfolio** | Personal portfolio experience |
+| 18 | **GitHub Badges** | GitHub profile customization project |
 
 ---
 
@@ -337,16 +283,14 @@ software-engineer-portfolio-website/
 ├── src/
 │   ├── components/
 │   ├── sections/
-│   ├── pages/
 │   ├── layouts/
+│   ├── pages/
 │   ├── data/
 │   ├── hooks/
 │   ├── utils/
 │   └── styles/
 │
 ├── app/
-│   ├── layout
-│   └── page
 │
 ├── components/
 │
@@ -354,142 +298,133 @@ software-engineer-portfolio-website/
 │
 ├── styles/
 │
+├── .env.example
+├── .gitignore
 ├── package.json
 ├── README.md
-├── .gitignore
-└── configuration files
+└── ...
 ```
 
 ---
 
 # 🧭 Portfolio Navigation
 
-```text
-HOME
- │
- ├── ABOUT
- │
- ├── SKILLS
- │
- ├── EXPERIENCE
- │
- ├── PROJECTS
- │
- ├── CERTIFICATIONS
- │
- ├── EDUCATION
- │
- └── CONTACT
-```
+The portfolio is structured around the following sections:
 
-The navigation is designed to provide a simple and intuitive journey through the portfolio.
+```text
+Home
+ │
+ ├── About
+ │
+ ├── Skills
+ │
+ ├── Experience
+ │
+ ├── Projects
+ │
+ ├── Certifications
+ │
+ ├── Education
+ │
+ └── Contact
+```
 
 ---
 
 # 💼 Experience
 
-The experience section focuses on the engineering journey behind the portfolio.
+The experience section focuses on demonstrating practical engineering capabilities rather than simply listing technologies.
 
-It communicates:
+It highlights:
 
-- Technical growth
-- Real-world development
-- Project ownership
-- Engineering responsibilities
-- Problem-solving
-- Product development
-- Collaboration
-- Continuous improvement
+- Development Experience
+- Real-World Projects
+- Client Work
+- Team Collaboration
+- Problem Solving
+- Product Development
+- Deployment
+- Technical Decision Making
+- Continuous Improvement
 
 ---
 
-# 📊 Engineering Metrics
+# 📈 Engineering Metrics
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│     2.5+             18+              30+                  │
-│    YEARS           PROJECTS        CLIENT / PARTNER        │
-│   EXPERIENCE       BUILT             WORK                 │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌────────────────────────────────────────────┐
+│                                            │
+│       2.5+ Years    Development Journey   │
+│                                            │
+│       18+            Projects              │
+│                                            │
+│       30+            Client / Partner Work │
+│                                            │
+│       ∞              Ideas                 │
+│                                            │
+└────────────────────────────────────────────┘
 ```
-
-> Numbers represent the development journey, projects and practical experience represented through the portfolio.
 
 ---
 
 # 🎨 Design Philosophy
 
-The portfolio follows a modern product-design philosophy:
+The portfolio follows a modern design philosophy focused on:
 
-```text
-Simplicity
-    ↓
-Clarity
-    ↓
-Consistency
-    ↓
-Interaction
-    ↓
-Performance
-    ↓
-Experience
-```
+### Minimalism
 
-### Design Principles
+Avoid unnecessary visual noise.
 
-- Minimal visual noise
-- Strong typography
-- Clear hierarchy
-- Consistent spacing
-- Responsive layouts
-- Purposeful animation
-- Smooth transitions
-- Strong contrast
-- Intuitive navigation
-- Accessible interaction
-- Modern visual language
+### Hierarchy
+
+Important information should always receive visual priority.
+
+### Consistency
+
+Spacing, typography, components, interactions and visual language should feel unified.
+
+### Responsiveness
+
+The experience should work across:
+
+- Desktop
+- Laptop
+- Tablet
+- Mobile
+
+### Accessibility
+
+Interfaces should remain understandable and usable for different users and devices.
+
+### Motion
+
+Animations should communicate interaction and hierarchy rather than distract from content.
 
 ---
 
 # ⚡ Performance Philosophy
 
-A beautiful website should also be fast.
+Performance is treated as part of the user experience.
 
-Performance considerations include:
+The project focuses on:
 
-```text
-Fast Rendering
-     ↓
-Optimized Assets
-     ↓
-Efficient Components
-     ↓
-Reduced Layout Shift
-     ↓
-Responsive Images
-     ↓
-Optimized Animations
-     ↓
-Production Deployment
-```
-
-The goal is to create a balance between:
-
-```text
-Visual Quality × Performance × Usability
-```
+- Optimized assets
+- Lazy loading
+- Efficient rendering
+- Component reuse
+- Reduced unnecessary JavaScript
+- Responsive images
+- Optimized CSS
+- Production builds
+- Fast navigation
+- Clean architecture
 
 ---
 
 # 🧰 Technology Stack
 
 <p align="center">
-  <img
-    src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,python,java,cpp,c,mysql,mongodb,git,github,vercel,vscode"
-    alt="Technology Stack"
-  />
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,python,java,cpp,mysql,mongodb,postgres,git,github,vercel,vscode,figma,linux&perline=10" />
 </p>
 
 ---
@@ -498,15 +433,14 @@ Visual Quality × Performance × Usability
 
 | Technology | Purpose |
 |---|---|
-| HTML5 | Semantic structure |
-| CSS3 | Styling and layouts |
-| JavaScript | Dynamic functionality |
-| TypeScript | Type-safe development |
-| React | Component-based UI |
-| Next.js | Modern web application architecture |
-| Responsive Design | Cross-device compatibility |
-| Animations | Interactive experience |
-| Accessibility | Inclusive usability |
+| HTML | Semantic Structure |
+| CSS | Styling |
+| JavaScript | Interactivity |
+| TypeScript | Type Safety |
+| React | UI Components |
+| Next.js | Full-Stack React Framework |
+| Tailwind CSS | Utility-First Styling |
+| Framer Motion | Animations |
 
 ---
 
@@ -514,60 +448,67 @@ Visual Quality × Performance × Usability
 
 | Technology | Purpose |
 |---|---|
-| Node.js | Server-side runtime |
-| REST APIs | Application communication |
-| Authentication | Secure access |
-| API Integration | External services |
-| Server Logic | Application processing |
-| Database Layer | Persistent data |
-| Validation | Reliable data handling |
+| Node.js | Runtime |
+| Express.js | Backend APIs |
+| REST API | Communication |
+| Authentication | User Security |
+| Middleware | Request Processing |
+| Server Logic | Business Logic |
 
 ---
 
-# 📊 Data & Analytics Stack
+# 🗃️ Data Layer
 
-| Area | Focus |
-|---|---|
-| SQL | Data querying |
-| KPI Analysis | Performance measurement |
-| Dashboards | Visual analytics |
-| Data Visualization | Insight discovery |
-| Telecom Analytics | Network metrics |
-| Business Analytics | Decision support |
+```text
+                 APPLICATION
+                      │
+                      ▼
+                 API LAYER
+                      │
+          ┌───────────┴───────────┐
+          │                       │
+          ▼                       ▼
+       SQL DB                 NoSQL DB
+          │                       │
+          ▼                       ▼
+      Structured              Flexible
+         Data                    Data
+```
 
 ---
 
 # ☁️ Cloud & Deployment
 
 ```text
-                         ┌───────────────┐
-                         │   Developer   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     GitHub    │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     Build     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    Vercel     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     Users     │
-                         └───────────────┘
+                   ┌──────────────┐
+                   │   GitHub     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │   Git Push   │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │    Build     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │   Vercel     │
+                   └──────┬───────┘
+                          │
+                          ▼
+                   ┌──────────────┐
+                   │ Production   │
+                   │   Website    │
+                   └──────────────┘
 ```
 
 ---
 
-# 🖥️ Run Locally
+# 🧪 Run Locally
 
 Clone the repository:
 
@@ -603,13 +544,13 @@ http://localhost:3000
 
 # 🚀 Production Build
 
-Create a production build:
+Create an optimized production build:
 
 ```bash
 npm run build
 ```
 
-Start the production server:
+Run the production server:
 
 ```bash
 npm start
@@ -619,7 +560,7 @@ npm start
 
 # 🔐 Environment Variables
 
-If environment variables are required, create:
+If your local configuration requires environment variables, create:
 
 ```text
 .env.local
@@ -630,138 +571,106 @@ Example:
 ```env
 NEXT_PUBLIC_API_URL=
 NEXT_PUBLIC_SITE_URL=
+DATABASE_URL=
 ```
 
-> Never commit sensitive credentials, API keys or private environment variables to GitHub.
+Never commit private credentials or secrets to GitHub.
 
 ---
 
 # 📱 Responsive Experience
 
-The portfolio is designed to provide a consistent experience across:
+The portfolio is designed for multiple screen sizes.
 
 ```text
-┌─────────────────────────────┐
-│         DESKTOP             │
-│                             │
-│   Full navigation           │
-│   Large visual hierarchy    │
-│   Interactive layouts       │
-└─────────────────────────────┘
-
-              ↓
-
-┌─────────────────────────────┐
-│          TABLET             │
-│                             │
-│   Adaptive components       │
-│   Optimized spacing         │
-│   Flexible grids            │
-└─────────────────────────────┘
-
-              ↓
-
-┌─────────────────────────────┐
-│           MOBILE            │
-│                             │
-│   Touch-friendly UI         │
-│   Compact navigation        │
-│   Responsive typography     │
-└─────────────────────────────┘
+┌─────────────────────────────────────────────────┐
+│                    DESKTOP                      │
+│                                                 │
+│     Full Navigation • Large Layout • Cards     │
+│                                                 │
+├─────────────────────────────────────────────────┤
+│                    TABLET                       │
+│                                                 │
+│       Adaptive Grid • Responsive Spacing       │
+│                                                 │
+├─────────────────────────────────────────────────┤
+│                    MOBILE                       │
+│                                                 │
+│       Stacked Layout • Touch Friendly UI       │
+│                                                 │
+└─────────────────────────────────────────────────┘
 ```
 
 ---
 
 # 🧠 Engineering Principles
 
-### 01 — Build for People
-
-Software exists to solve human problems.
-
-### 02 — Keep It Simple
-
-Complexity should be intentional.
-
-### 03 — Design Before Code
-
-Good architecture starts with understanding.
-
-### 04 — Performance Matters
-
-Fast software creates better experiences.
-
-### 05 — Write Maintainable Code
-
-Code should be understandable by the next developer.
-
-### 06 — Learn Continuously
-
-Technology changes. Learning never stops.
-
-### 07 — Ship
-
-Ideas become valuable when they are built and delivered.
+```text
+01  Understand the Problem
+02  Design Before Coding
+03  Keep Components Reusable
+04  Write Maintainable Code
+05  Optimize Only Where Necessary
+06  Build for Real Users
+07  Test Before Deployment
+08  Monitor Production
+09  Learn From Feedback
+10  Keep Improving
+```
 
 ---
 
-# 🌱 Learning & Growth
+# 📚 Learning & Growth
 
-My development journey continuously focuses on improving:
+Software engineering is an ongoing process.
 
-```text
-Frontend Engineering
-        ↓
-Backend Development
-        ↓
-System Design
-        ↓
-Database Architecture
-        ↓
-Cloud & Deployment
-        ↓
-Performance Engineering
-        ↓
-AI & Automation
-        ↓
-Product Engineering
-```
+My learning areas include:
+
+- Full-Stack Development
+- System Design
+- Data Structures & Algorithms
+- Artificial Intelligence
+- Machine Learning
+- Cloud Computing
+- Cybersecurity
+- Networking
+- Database Systems
+- UI/UX
+- DevOps
+- Performance Engineering
 
 ---
 
 # 🏆 Certifications & Learning
 
-The portfolio includes a dedicated certifications and learning section representing continuous professional development.
+The portfolio includes a dedicated section for:
 
-Areas of learning include:
-
-- Software Engineering
-- Full-Stack Development
-- Web Development
-- Programming
-- Databases
-- Computer Networks
-- Data Analytics
-- Cloud Technologies
-- Artificial Intelligence
-- Modern Development Tools
+- Professional Certifications
+- Technical Courses
+- Workshops
+- Academic Achievements
+- Developer Programs
+- Online Learning
+- Skill Development
 
 ---
 
-# 🧩 What I Build
+# 🛠️ What I Build
 
-I enjoy creating:
+I enjoy building:
 
 ```text
 🌐 Web Applications
-📱 Responsive Interfaces
-⚙️ Full-Stack Systems
-🧠 AI-Powered Applications
 📊 Analytics Dashboards
-📡 Network Analytics Platforms
+🤖 AI-Powered Applications
+📱 Responsive Interfaces
 🏢 Enterprise Platforms
-🎨 Creative Digital Experiences
+🛒 E-Commerce Systems
+📚 Education Platforms
+🔐 Security-Focused Systems
+📡 Telecom Analytics
 🚀 Developer Tools
-💡 Experimental Products
+🎨 Interactive Digital Experiences
 ```
 
 ---
@@ -769,29 +678,35 @@ I enjoy creating:
 # 🗺️ Roadmap
 
 ```text
-[x] Build personal developer portfolio
-[x] Create responsive UI
-[x] Add projects showcase
-[x] Add skills section
-[x] Add experience section
-[x] Add certifications
-[x] Add education
-[x] Add contact section
-[x] Deploy portfolio
-[x] Optimize user experience
-[x] Improve visual design
-[ ] Continue adding production projects
-[ ] Expand technical case studies
-[ ] Add deeper engineering documentation
-[ ] Continue improving performance
-[ ] Explore advanced AI integrations
+[x] Personal Portfolio
+[x] Responsive Design
+[x] Projects Showcase
+[x] Experience Section
+[x] Skills Section
+[x] Education Section
+[x] Certifications Section
+[x] Contact Section
+[x] Production Deployment
+
+[ ] Advanced Analytics
+[ ] CMS Integration
+[ ] Blog Platform
+[ ] Project Case Studies
+[ ] Advanced Performance Monitoring
+[ ] More Interactive Experiences
 ```
 
 ---
 
 # 🖼️ Screenshots
 
-Add screenshots of the portfolio inside:
+Add screenshots to:
+
+```text
+public/screenshots/
+```
+
+Recommended structure:
 
 ```text
 public/
@@ -803,104 +718,74 @@ public/
     └── mobile.png
 ```
 
-## 🏠 Home
+Then display them:
 
-<p align="center">
-  <img src="./public/screenshots/home-desktop.png" width="95%" alt="Portfolio Home" />
-</p>
+```markdown
+## 🖥️ Desktop
 
----
+![Portfolio Home](./public/screenshots/home-desktop.png)
 
 ## 🧠 Skills
 
-<p align="center">
-  <img src="./public/screenshots/skills.png" width="95%" alt="Portfolio Skills" />
-</p>
-
----
+![Skills Section](./public/screenshots/skills.png)
 
 ## 💼 Experience
 
-<p align="center">
-  <img src="./public/screenshots/experience.png" width="95%" alt="Portfolio Experience" />
-</p>
-
----
+![Experience Section](./public/screenshots/experience.png)
 
 ## 🚀 Projects
 
-<p align="center">
-  <img src="./public/screenshots/projects.png" width="95%" alt="Portfolio Projects" />
-</p>
-
----
+![Projects Section](./public/screenshots/projects.png)
 
 ## 📱 Mobile
 
-<p align="center">
-  <img src="./public/screenshots/mobile.png" width="40%" alt="Portfolio Mobile" />
-</p>
+![Mobile Experience](./public/screenshots/mobile.png)
+```
 
 ---
 
 # 🔄 Portfolio Flow
 
 ```text
-                         ┌───────────────┐
-                         │     HOME      │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │     ABOUT     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    SKILLS     │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │  EXPERIENCE   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    PROJECTS   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │CERTIFICATIONS │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │   EDUCATION   │
-                         └───────┬───────┘
-                                 │
-                                 ▼
-                         ┌───────────────┐
-                         │    CONTACT    │
-                         └───────────────┘
+                         VISITOR
+                            │
+                            ▼
+                    ┌──────────────┐
+                    │     HOME     │
+                    └──────┬───────┘
+                           │
+            ┌──────────────┼──────────────┐
+            │              │              │
+            ▼              ▼              ▼
+          ABOUT          SKILLS        EXPERIENCE
+            │              │              │
+            └──────────────┼──────────────┘
+                           │
+                           ▼
+                       PROJECTS
+                           │
+                           ▼
+                    CERTIFICATIONS
+                           │
+                           ▼
+                       EDUCATION
+                           │
+                           ▼
+                        CONTACT
 ```
 
 ---
 
-# 📈 GitHub Statistics
+# 📊 GitHub Statistics
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=Ansh-vibe&show_icons=true&theme=transparent&hide_border=true&title_color=CCFF00&icon_color=CCFF00&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api?username=Ansh-vibe&show_icons=true&theme=transparent&hide_border=true&title_color=7C3AED&icon_color=06B6D4"
     height="180"
-    alt="GitHub Statistics"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-vibe&layout=compact&theme=transparent&hide_border=true&title_color=CCFF00&text_color=FFFFFF"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ansh-vibe&layout=compact&theme=transparent&hide_border=true&title_color=7C3AED"
     height="180"
-    alt="Top Languages"
   />
 </p>
 
@@ -910,20 +795,19 @@ public/
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=Ansh-vibe&theme=dark&hide_border=true&ring=CCFF00&fire=CCFF00&currStreakLabel=CCFF00"
+    src="https://streak-stats.demolab.com?user=Ansh-vibe&theme=transparent&hide_border=true&ring=7C3AED&fire=06B6D4&currStreakLabel=7C3AED"
     width="70%"
-    alt="GitHub Streak"
   />
 </p>
 
 ---
 
-# 🐍 Contribution Activity
+# 🐍 Contribution Graph
 
 <p align="center">
   <img
     src="https://raw.githubusercontent.com/Ansh-vibe/Ansh-vibe/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
+    width="100%"
   />
 </p>
 
@@ -932,174 +816,140 @@ public/
 # 🧬 Development Philosophy
 
 ```text
-                 ┌───────────────────────┐
-                 │       IDEA            │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │      RESEARCH         │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       DESIGN          │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │      DEVELOP          │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │        TEST           │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │      OPTIMIZE         │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       DEPLOY          │
-                 └───────────┬───────────┘
-                             │
-                             ▼
-                 ┌───────────────────────┐
-                 │       IMPROVE         │
-                 └───────────────────────┘
+                  THINK
+                    │
+                    ▼
+                 DESIGN
+                    │
+                    ▼
+                  BUILD
+                    │
+                    ▼
+                  TEST
+                    │
+                    ▼
+                DEPLOY
+                    │
+                    ▼
+                 LEARN
+                    │
+                    ▼
+                IMPROVE
+                    │
+                    └───────────────┐
+                                    │
+                                    ▼
+                                  REPEAT
+```
+
+> **Build → Learn → Improve → Repeat**
+
+---
+
+# 🔄 Developer Workflow
+
+```text
+                 IDEA
+                  │
+                  ▼
+             REQUIREMENTS
+                  │
+                  ▼
+              RESEARCH
+                  │
+                  ▼
+              ARCHITECTURE
+                  │
+                  ▼
+              DEVELOPMENT
+                  │
+                  ▼
+                TESTING
+                  │
+                  ▼
+             OPTIMIZATION
+                  │
+                  ▼
+              DEPLOYMENT
+                  │
+                  ▼
+              MONITORING
+                  │
+                  ▼
+              ITERATION
 ```
 
 ---
 
-# 🔁 Developer Workflow
+# 💻 Development Environment
 
 ```text
-01. Understand
-      ↓
-02. Research
-      ↓
-03. Plan
-      ↓
-04. Design
-      ↓
-05. Develop
-      ↓
-06. Integrate
-      ↓
-07. Test
-      ↓
-08. Optimize
-      ↓
-09. Deploy
-      ↓
-10. Monitor
-      ↓
-11. Improve
-```
+OS
+├── Windows
+├── Linux
+└── macOS
 
----
+Editors
+├── VS Code
+└── Cursor
 
-# 🧑‍💻 Development Environment
+Version Control
+└── Git + GitHub
 
-My development workflow revolves around modern engineering tools and practices.
+Design
+└── Figma
 
-```text
-Editor
-   ↓
-VS Code
-   ↓
-Git
-   ↓
-GitHub
-   ↓
-Development
-   ↓
 Testing
-   ↓
-Build
-   ↓
+└── Postman
+
 Deployment
-```
-
-Common development tools:
-
-```text
-Visual Studio Code
-Git
-GitHub
-Chrome DevTools
-Node.js
-npm
-Vercel
-Terminal
-REST APIs
-Database Tools
+└── Vercel
 ```
 
 ---
 
 # 🎯 Project Goals
 
-The portfolio was created with several goals:
+This portfolio was created to:
 
-### 🎨 Visual
-
-Create a modern and memorable developer experience.
-
-### 🧠 Technical
-
-Demonstrate real development skills and engineering knowledge.
-
-### 📱 Responsive
-
-Deliver a consistent experience across devices.
-
-### ⚡ Performance
-
-Keep interactions fast and efficient.
-
-### 🧩 Maintainability
-
-Use structured and reusable development patterns.
-
-### 🚀 Professional
-
-Present projects, skills and experience in a professional way.
-
-### 🌱 Growth
-
-Create a platform that can continuously evolve with my career.
+- Build a strong professional presence
+- Showcase technical capabilities
+- Demonstrate real-world projects
+- Present professional experience
+- Highlight certifications
+- Share achievements
+- Demonstrate UI/UX skills
+- Showcase responsive development
+- Create a central professional identity
+- Make collaboration easier
 
 ---
 
-# 💡 Why This Portfolio?
+# ❓ Why This Portfolio?
 
-Traditional resumes show information.
+Because a resume tells you **what I know**.
 
-A portfolio should show **evidence**.
+A portfolio shows you **what I can build**.
 
-Instead of simply saying:
+This project exists to bridge that gap.
 
-```text
-"I can build websites."
-```
-
-the portfolio aims to demonstrate:
+It combines:
 
 ```text
-"I design."
-"I develop."
-"I solve."
-"I optimize."
-"I deploy."
-"I learn."
-"I build."
+PERSONAL BRAND
+       +
+ENGINEERING
+       +
+DESIGN
+       +
+PROJECTS
+       +
+EXPERIENCE
+       +
+PROBLEM SOLVING
+       +
+CONTINUOUS LEARNING
 ```
-
-The objective is to transform a static profile into an interactive engineering experience.
 
 ---
 
@@ -1107,93 +957,98 @@ The objective is to transform a static profile into an interactive engineering e
 
 I'm always interested in:
 
-```text
-Open Source
-Startup Ideas
-Web Applications
-AI Projects
-Developer Tools
-Data Platforms
-Technical Collaborations
-Creative Digital Products
-```
+- Interesting Projects
+- Open Source
+- Startup Ideas
+- Developer Communities
+- Freelance Opportunities
+- Technical Collaborations
+- Product Development
+- Creative Digital Experiences
 
-If you have an interesting idea, feel free to connect.
+If you're building something interesting, feel free to connect.
 
 ---
 
-# 🌐 Let's Connect
+# 📬 Let's Connect
 
 <p align="center">
-
-<a href="https://software-engineer-portfolio-website.vercel.app/">
-  <img src="https://img.shields.io/badge/Portfolio-CCFF00?style=for-the-badge&logo=vercel&logoColor=000000" />
-</a>
-
-<a href="https://github.com/Ansh-vibe">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
+  <a href="https://software-engineer-portfolio-website.vercel.app/">
+    <img src="https://img.shields.io/badge/Portfolio-7C3AED?style=for-the-badge&logo=google-chrome&logoColor=white" />
+  </a>
+  <a href="https://github.com/Ansh-vibe">
+    <img src="https://img.shields.io/badge/GitHub-050816?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
 </p>
 
 ---
 
-# ⭐ Support This Project
+# ⭐ Support
 
-If you found this portfolio useful, inspiring or interesting:
+If you find this project useful or inspiring:
 
-```text
 ⭐ Star the repository
-🍴 Fork the project
-👀 Explore the code
-💡 Share feedback
-🤝 Collaborate
-```
 
-Your support helps motivate continuous development and improvement.
+🍴 Fork the project
+
+📢 Share it
+
+💬 Give feedback
+
+🤝 Connect with me
+
+Every interaction helps the project grow.
 
 ---
 
-# 📜 License
+# 📄 License
 
 This project is intended for personal portfolio and educational purposes.
 
-You are welcome to explore the implementation and learn from the architecture and ideas.
+Feel free to explore the architecture and ideas.
 
-Please do not directly copy personal content, branding, identity or portfolio information and present it as your own.
+Please do not directly copy the complete portfolio, branding, personal information, or original assets and present them as your own.
 
 ---
 
-# 🧠 Final Thought
+# 🌌 Final Thought
 
 ```text
-┌─────────────────────────────────────────────────────────────┐
-│                                                             │
-│                     CODE IS MORE THAN                       │
-│                       SYNTAX.                               │
-│                                                             │
-│                 IT'S HOW WE TURN IDEAS                      │
-│                    INTO REALITY.                            │
-│                                                             │
-└─────────────────────────────────────────────────────────────┘
+┌───────────────────────────────────────────────────┐
+│                                                   │
+│   "The best code isn't written to impress.       │
+│    It's written to solve something meaningful."  │
+│                                                   │
+└───────────────────────────────────────────────────┘
 ```
 
-> **Think different. Build better. Ship what matters.**
+### Built with:
+
+```text
+Curiosity
+   +
+Creativity
+   +
+Engineering
+   +
+Consistency
+   +
+Code
+```
 
 ---
 
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:030308,50:17112f,100:CCFF00&section=footer&animation=fadeIn"
+    src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:050816,50:171A3A,100:7C3AED&section=footer&animation=fadeIn"
     width="100%"
-    alt="Footer"
   />
 </p>
 
 <p align="center">
-  <strong>Built with ❤️, ☕ and a lot of code by Ansh Vishwakarma.</strong>
+  <b>© Ansh Vishwakarma</b>
 </p>
 
 <p align="center">
-  <sub>© 2026 Ansh Vishwakarma. All rights reserved.</sub>
+  <i>Building the future, one commit at a time.</i>
 </p>
