@@ -47,7 +47,7 @@ section { scroll-margin-top: 80px; }
 .theme-toggle { position: relative; cursor: pointer; transition: transform .25s ease, filter .25s ease; }
 .theme-toggle:hover { transform: translateY(-1px); filter: brightness(1.08); }
 .theme-toggle img { transition: transform .35s cubic-bezier(.2,.8,.2,1), filter .35s ease; }
-.theme-toggle.is-on img { transform: translateX(18px); filter: brightness(1.18) saturate(.78); }
+.theme-toggle.is-on img { transform: translateX(42px); filter: brightness(1.18) saturate(.78); }
 :root.light-mode { color-scheme: light; --background: #f4f4f1; --foreground: #17171a; --border: rgba(24,24,27,.12); }
 .light-mode body { background: #f4f4f1; color: #17171a; }
 .light-mode .hero-heading { background: linear-gradient(180deg, #353943 0%, #737b87 100%); -webkit-background-clip: text; background-clip: text; }
