@@ -18,14 +18,14 @@ section { scroll-margin-top: 80px; }
 .nav-shell::before, .nav-shell::after { position: absolute; z-index: -1; content: ''; pointer-events: none; }
 .nav-shell::before { inset: -13px 20px auto; height: 14px; background: linear-gradient(135deg, transparent 0 3%, #111 3% 13%, transparent 13% 17%, #292929 17% 30%, transparent 30% 70%, #292929 70% 83%, transparent 83% 87%, #111 87% 97%, transparent 97%); border-top: 2px solid #0b0b0b; }
 .nav-shell::after { inset: auto 24px -9px; height: 9px; background: linear-gradient(90deg, transparent 0 10%, #242424 10% 88%, transparent 88%); clip-path: polygon(0 0, 8% 0, 10% 100%, 90% 100%, 92% 0, 100% 0, 96% 100%, 4% 100%); }
-.nav-link { position: relative; flex: 1 1 auto; text-align: center; color: #242629; font-size: 12px; font-weight: 500; letter-spacing: .02em; padding: 14px 17px; border-right: 1px solid #d4d7da; text-shadow: none; transition: color .2s ease, background .2s ease, box-shadow .2s ease; }
+.nav-link { position: relative; flex: 1 1 auto; text-align: center; color: #242629; font-size: 12px; font-weight: 500; letter-spacing: .02em; padding: 25px 17px; border-right: 1px solid #d4d7da; text-shadow: none; text-transform: uppercase; transition: color .2s ease, background .2s ease, box-shadow .2s ease; }
 .nav-link::before { position: absolute; inset: 0 0 auto; height: 2px; content: ''; background: linear-gradient(90deg, transparent, #aeb2b6, transparent); opacity: 1; transition: opacity .2s ease; }
 .nav-link:last-child { border-right: 0; }
 .nav-link:hover, .nav-link:focus-visible { color: #111; background: linear-gradient(180deg, #ffffff, #e8e9ea); box-shadow: inset 0 -3px 0 #b3211a; outline: none; }
 .nav-link:hover::before, .nav-link:focus-visible::before { opacity: 1; }
 .nav-link[href="#projects"] { box-shadow: inset 0 -3px 0 #9d2119; }
 .nav-link[href="#projects"]::before { opacity: 1; }
-.nav-email { border-radius: 0; border: 0; border-right: 1px solid #d4d7da; background: transparent; color: #242629; padding: 14px 16px; font-size: 11px; font-weight: 500; text-shadow: none; }
+.nav-email { border-radius: 0; border: 0; border-right: 1px solid #d4d7da; background: transparent; color: #242629; padding: 25px 17px; font-size: 12px; font-weight: 500; text-shadow: none; text-transform: uppercase; }
 .nav-email:hover { transform: none; color: #fff; box-shadow: inset 0 -3px 0 #9d2119; background: linear-gradient(180deg, rgba(141,29,20,.72), rgba(24,7,5,.5)); }
 .social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 6px 11px 6px 7px; color: #b4b4ba; font-size: 11px; } .social-pill img { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
   .social-pill:hover { border-color: #a78bfa; color: white; }
