@@ -1,0 +1,40 @@
+{
+  "profile": {
+    "name": "Ansh Vishwakarma",
+    "shortName": "Ansh",
+    "tagline": "Full-Stack Developer & Founder building production-grade web applications end to end.",
+    "role": "Full-Stack Developer & Founder",
+    "specialization": "Full-Stack Development · AI Applications · Data & Network Analytics",
+    "location": "Kanpur, Uttar Pradesh, India",
+    "yearsOfExperience": "1+",
+    "bio": "I build and deploy production-grade web applications from wireframes to deployment, while helping businesses turn ideas into scalable digital products. As the Founder & Lead Full-Stack Engineer at OREN, I have delivered 6+ live projects and managed 5+ client engagements across domestic and international clients.",
+    "avatarSvg": "/avatar.png",
+    "social": { "github": "https://github.com/Ansh-vibe", "instagram": "", "linkedin": "https://linkedin.com/in/v-ansh", "email": "contact.ansh03@gmail.com", "phone": "+91 84003 85071", "website": "https://ansh-vibe.github.io/ansh-portfolio-website" }
+  },
+  "skills": { "categories": [
+    { "name": "Languages", "items": ["C", "Python", "Java", "SQL", "JavaScript ES6+"] },
+    { "name": "Frontend", "items": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"] },
+    { "name": "Data & Analytics", "items": ["Pandas", "Power BI", "MS Excel", "KPI Analysis"] },
+    { "name": "Systems", "items": ["MongoDB", "REST APIs", "TCP/IP", "Git", "AWS Foundations", "Vercel"] }
+  ] },
+  "experience": [
+    { "company": "OREN Website Development Services", "role": "Founder & Lead Full-Stack Engineer", "period": "Apr 2026 — Present", "location": "Kanpur, India / Remote", "summary": "Building production web solutions for businesses while owning the complete product lifecycle from discovery and wireframes to deployment.", "highlights": ["Built and deployed 3+ production Next.js/React websites for Cape Town hospitality clients with custom booking and menu flows.", "Cut client time-to-market by approximately 40% through streamlined development and deployment workflows.", "Owned wireframing, CRM integration, deployment and product delivery, contributing to approximately 30% higher client lead conversion."] },
+    { "company": "Cisco Networking Academy", "role": "Network Engineering & Analytics Trainee", "period": "Aug 2026 — Present", "location": "Remote", "summary": "Working on networking fundamentals, network performance monitoring and analytics using Python and Power BI.", "highlights": ["Configured wireless routers and IPv4/IPv6 subnet schemes.", "Built Python and Power BI dashboards tracking latency, throughput and packet loss.", "Applied network-performance metrics to identify and analyze potential degradation."] },
+    { "company": "Codec Technologies India (CodeAlpha)", "role": "Cybersecurity Intern", "period": "Jul 2025 — Sep 2025", "location": "India", "summary": "Worked on cybersecurity labs, vulnerability assessment and secure software-development practices.", "highlights": ["Performed vulnerability assessments and threat-detection laboratory exercises.", "Applied secure-coding practices during cybersecurity tasks."] },
+    { "company": "Kin-G Technology Pvt. Ltd.", "role": "Campus Ambassador", "period": "Sep 2025 — Oct 2025", "location": "India", "summary": "Connected students with technology and career opportunities through outreach, webinars and relationship management.", "highlights": ["Achieved 15 student registrations within two days through direct outreach.", "Organized 3+ webinars connecting students with industry mentors."] }
+  ],
+  "services": [
+    { "name": "Backend systems", "description": "Reliable APIs, data models and integrations that keep products moving." },
+    { "name": "AI / LLM applications", "description": "Practical AI features that make complex workflows feel effortless." },
+    { "name": "Frontend experiences", "description": "Fast, expressive interfaces designed around real user behavior." },
+    { "name": "Cloud & deployment", "description": "Shipping confidently with clean infrastructure and observability." }
+  ],
+  "projects": [
+    { "id": "cvforge", "title": "CVForge", "subtitle": "AI-powered ATS Resume Builder", "description": "An AI-powered web application that generates ATS-optimized resumes for job seekers, combining full-stack development with AI integration.", "stack": ["React", "Next.js", "AI Integration", "Tailwind CSS"], "role": "Full-Stack Developer", "year": "2026", "link": "", "image": "", "highlight": true },
+    { "id": "cape-town", "title": "Cape Town Hospitality", "subtitle": "Production websites with booking & menu experiences", "description": "A collection of live restaurant websites developed for Cape Town hospitality clients, with custom booking and menu experiences designed around real business requirements.", "stack": ["Next.js", "React", "Tailwind CSS", "CRM Integration"], "role": "Founder & Lead Full-Stack Engineer", "year": "2026", "link": "", "image": "", "highlight": true },
+    { "id": "telecom-kpi", "title": "Telecom Network KPI Dashboard", "subtitle": "Automated network performance monitoring", "description": "A Python data pipeline that evaluates telecom KPIs and categorizes performance into normal, warning and critical conditions for faster troubleshooting.", "stack": ["Python", "Pandas", "Power BI", "Excel"], "role": "Data & Network Analytics Developer", "year": "2026", "link": "", "image": "", "highlight": true },
+    { "id": "5g-analysis", "title": "4G LTE & 5G NR KPI Analysis", "subtitle": "Cellular network performance analysis", "description": "An analytics project using synthetic cellular datasets to analyze throughput, availability and call-drop-rate metrics.", "stack": ["Python", "Pandas", "Advanced Excel"], "role": "Data & Network Analyst", "year": "2026", "link": "", "image": "", "highlight": false }
+  ],
+  "education": [{ "degree": "Bachelor of Computer Applications (BCA)", "institution": "Axis Colleges, Kanpur", "university": "CSJM University", "period": "2024 — 2027", "grade": "CGPA: 7.62" }],
+  "testimonials": []
+}

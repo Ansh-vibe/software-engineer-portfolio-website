@@ -1,0 +1,41 @@
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@300;400;500;600;700;800;900&display=swap');
+@import 'tailwindcss';
+@import 'tw-animate-css';
+@import 'shadcn/tailwind.css';
+
+:root { color-scheme: dark; --background: #0c0c0c; --foreground: #f4f4f5; --border: rgba(255,255,255,.1); }
+* { box-sizing: border-box; }
+html { scroll-behavior: smooth; }
+body { margin: 0; background: #0c0c0c; color: #f4f4f5; font-family: 'Kanit', sans-serif; }
+a { transition: color .2s ease, opacity .2s ease; }
+section { scroll-margin-top: 80px; }
+.hero-heading { background: linear-gradient(180deg, #646973 0%, #bbccd7 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.gradient-text { background: linear-gradient(100deg, #b9c8d1 5%, #f0c9ff 45%, #ff8b42 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent; background-clip: text; }
+.section-shell { max-width: 1280px; margin: 0 auto; padding: 140px 20px; }
+.section-kicker, .eyebrow { color: #a78bfa; font-size: 10px; font-weight: 700; letter-spacing: .25em; text-transform: uppercase; }
+.display-title { font-size: clamp(3rem, 7vw, 6.5rem); font-weight: 800; letter-spacing: -.07em; line-height: .92; }
+.nav-link { color: #8b8b91; font-size: 13px; }
+.nav-link:hover { color: #fff; }
+.social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 9px 13px; color: #b4b4ba; font-size: 11px; }
+.social-pill:hover { border-color: #a78bfa; color: white; }
+.hero-glow { position: absolute; width: 680px; height: 460px; border-radius: 50%; background: radial-gradient(ellipse, rgba(168,85,247,.13), transparent 65%); filter: blur(30px); }
+.avatar-frame { width: min(70vw, 390px); aspect-ratio: 1 / 1.12; overflow: hidden; border-radius: 48% 48% 42% 42%; border: 1px solid rgba(255,255,255,.16); background: #131313; box-shadow: 0 0 80px rgba(168,85,247,.12); }
+.avatar-frame img { width: 100%; height: 100%; object-fit: cover; }
+.stat { display: block; font-size: 2.4rem; line-height: 1; font-weight: 700; letter-spacing: -.06em; }
+.stat-label { display: block; margin-top: 8px; color: #66666e; font-size: 10px; text-transform: uppercase; letter-spacing: .14em; }
+.chip, .mono-pill { display: inline-flex; border: 1px solid rgba(255,255,255,.13); border-radius: 999px; padding: 6px 10px; color: #a1a1aa; font-size: 11px; }
+.mono-pill { font-family: ui-monospace, monospace; color: #d4d4d8; }
+.project-card { position: sticky; top: 105px; overflow: hidden; border: 1px solid rgba(255,255,255,.11); border-radius: 18px; background: #121212; }
+.project-visual { position: relative; height: 260px; overflow: hidden; border-bottom: 1px solid rgba(255,255,255,.1); background: #171717; }
+.project-visual img { width: 100%; height: 100%; object-fit: cover; opacity: .72; }
+.placeholder-art { display: flex; height: 100%; align-items: center; justify-content: center; background: radial-gradient(circle at 70% 40%, rgba(168,85,247,.28), transparent 25%), linear-gradient(125deg, #18181b, #27202f 55%, #171717); }
+.placeholder-art span { color: rgba(255,255,255,.18); font-size: clamp(2rem, 7vw, 6rem); font-weight: 800; letter-spacing: -.08em; }
+.project-index, .project-year { position: absolute; top: 20px; color: #bbb; font-family: ui-monospace, monospace; font-size: 11px; }
+.project-index { left: 22px; } .project-year { right: 22px; }
+.marquee { overflow: hidden; }
+.marquee-track { display: flex; width: max-content; animation: marquee 38s linear infinite; }
+.marquee:hover .marquee-track { animation-play-state: paused; }
+.testimonial-card { width: min(380px, 80vw); margin-right: 18px; border: 1px solid rgba(255,255,255,.1); border-radius: 16px; background: #121212; padding: 28px; }
+@keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+@media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .marquee-track { animation: none; overflow-x: auto; scroll-snap-type: x mandatory; } .testimonial-card { scroll-snap-align: start; } }
+@media (max-width: 767px) { .section-shell { padding: 96px 20px; } .project-card { position: relative; top: auto; } .project-visual { height: 210px; } }
