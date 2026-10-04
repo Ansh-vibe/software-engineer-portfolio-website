@@ -19,8 +19,9 @@ section { scroll-margin-top: 80px; }
 .social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 9px 13px; color: #b4b4ba; font-size: 11px; }
 .social-pill:hover { border-color: #a78bfa; color: white; }
 .hero-glow { position: absolute; width: 680px; height: 460px; border-radius: 50%; background: radial-gradient(ellipse, rgba(168,85,247,.13), transparent 65%); filter: blur(30px); }
-.avatar-frame { width: min(70vw, 390px); aspect-ratio: 1 / 1.12; overflow: hidden; border-radius: 48% 48% 42% 42%; border: 1px solid rgba(255,255,255,.16); background: #131313; box-shadow: 0 0 80px rgba(168,85,247,.12); }
-.avatar-frame img { width: 100%; height: 100%; object-fit: cover; }
+.avatar-frame { position: relative; width: min(70vw, 390px); aspect-ratio: 1 / 1.12; overflow: hidden; border-radius: 48% 48% 42% 42%; border: 1px solid rgba(255,255,255,.18); background: #050505; box-shadow: 0 0 80px rgba(168,85,247,.14), 0 24px 70px rgba(0,0,0,.45); }
+  .avatar-frame::after { position: absolute; inset: 0; pointer-events: none; content: ''; background: linear-gradient(180deg, transparent 54%, rgba(0,0,0,.28)); }
+  .avatar-frame img { width: 100%; height: 100%; object-fit: cover; object-position: center 18%; filter: saturate(.94) contrast(1.04); }
 .stat { display: block; font-size: 2.4rem; line-height: 1; font-weight: 700; letter-spacing: -.06em; }
 .stat-label { display: block; margin-top: 8px; color: #66666e; font-size: 10px; text-transform: uppercase; letter-spacing: .14em; }
 .chip, .mono-pill { display: inline-flex; border: 1px solid rgba(255,255,255,.13); border-radius: 999px; padding: 6px 10px; color: #a1a1aa; font-size: 11px; }
