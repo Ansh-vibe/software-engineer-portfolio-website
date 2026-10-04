@@ -83,6 +83,10 @@
     { "id": "aec-software", "name": "Master Essential AEC Software", "issuer": "Simplified Academy", "description": "Course covering AutoCAD, Revit, drafting, surveying, structural analysis and construction-oriented digital tools.", "year": "2026", "credentialUrl": "https://www.linkedin.com/in/v-ansh", "previewLabel": "AEC SOFTWARE", "accent": "#ea580c" },
     { "id": "digital-marketing", "name": "Digital Marketing Fundamentals", "issuer": "IIDE — The Digital School", "description": "Online mastercourse covering the fundamentals of digital marketing and its core concepts.", "year": "2026", "credentialUrl": "https://www.linkedin.com/in/v-ansh", "previewLabel": "DIGITAL MARKETING", "accent": "#be123c" }
   ],
-  "education": [{ "degree": "Bachelor of Computer Applications (BCA)", "institution": "Axis Colleges, Kanpur", "university": "CSJM University", "period": "2024 — 2027", "grade": "CGPA: 7.62" }],
+  "education": [
+    { "degree": "Bachelor of Computer Applications (BCA)", "institution": "Axis Colleges (AIHE), Kanpur", "university": "CSJM University", "period": "2024 — 2027", "grade": "Final-year undergraduate" },
+    { "degree": "Senior Secondary (PCM)", "institution": "U.P. Board", "university": "", "period": "2024", "grade": "86.2%" },
+    { "degree": "Secondary School (Mathematics & Science)", "institution": "U.P. Board", "university": "", "period": "2022", "grade": "82.83%" }
+  ],
   "testimonials": []
 }
