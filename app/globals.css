@@ -14,12 +14,17 @@ section { scroll-margin-top: 80px; }
 .section-shell { max-width: 1280px; margin: 0 auto; padding: 140px 20px; }
 .section-kicker, .eyebrow { color: #a78bfa; font-size: 10px; font-weight: 700; letter-spacing: .25em; text-transform: uppercase; }
 .display-title { font-size: clamp(3rem, 7vw, 6.5rem); font-weight: 800; letter-spacing: -.07em; line-height: .92; }
-.nav-shell { border: 1px solid rgba(255,255,255,.28); border-radius: 4px; background-image: linear-gradient(180deg, rgba(54,54,54,.84), rgba(10,10,10,.92)), url('https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image-5b0NWVMEj0E6JSiQIqoLdc2yxzc9RI.png'); background-size: cover; background-position: center; box-shadow: 0 0 0 2px rgba(0,0,0,.85), 0 8px 18px rgba(0,0,0,.45), inset 0 1px 0 rgba(255,255,255,.22); overflow: hidden; }
-  .nav-link { position: relative; color: #e2e2e2; font-size: 11px; font-weight: 600; letter-spacing: .03em; padding: 13px 14px; border-right: 1px solid rgba(255,255,255,.16); text-shadow: 0 1px 2px #000; transition: background .2s ease, color .2s ease, box-shadow .2s ease; }
-  .nav-link:last-child { border-right: 0; }
-  .nav-link:hover { color: #fff; background: linear-gradient(180deg, rgba(151,35,25,.85), rgba(38,8,6,.9)); box-shadow: inset 0 -3px 0 #d92d20; }
-  .nav-email { border-radius: 0; border: 0; border-right: 1px solid rgba(255,255,255,.16); background: transparent; color: #f3f3f3; padding: 13px 14px; font-size: 11px; font-weight: 600; text-shadow: 0 1px 2px #000; }
-  .nav-email:hover { transform: none; box-shadow: inset 0 -3px 0 #d92d20; background: linear-gradient(180deg, rgba(151,35,25,.85), rgba(38,8,6,.9)); }
+.nav-shell { position: relative; isolation: isolate; border: 1px solid #6b6b6b; border-radius: 2px; background: repeating-linear-gradient(90deg, rgba(255,255,255,.025) 0 1px, transparent 1px 5px), linear-gradient(180deg, #3a3a3a 0%, #111 18%, #050505 82%, #202020 100%); box-shadow: 0 0 0 2px #090909, 0 7px 14px rgba(0,0,0,.52), inset 0 1px 0 rgba(255,255,255,.42), inset 0 -2px 0 #050505; overflow: visible; }
+.nav-shell::before, .nav-shell::after { position: absolute; z-index: -1; content: ''; pointer-events: none; }
+.nav-shell::before { inset: -13px 20px auto; height: 14px; background: linear-gradient(135deg, transparent 0 3%, #111 3% 13%, transparent 13% 17%, #292929 17% 30%, transparent 30% 70%, #292929 70% 83%, transparent 83% 87%, #111 87% 97%, transparent 97%); border-top: 2px solid #0b0b0b; }
+.nav-shell::after { inset: auto 24px -9px; height: 9px; background: linear-gradient(90deg, transparent 0 10%, #242424 10% 88%, transparent 88%); clip-path: polygon(0 0, 8% 0, 10% 100%, 90% 100%, 92% 0, 100% 0, 96% 100%, 4% 100%); }
+.nav-link { position: relative; color: #ededed; font-size: 11px; font-weight: 500; letter-spacing: .02em; padding: 13px 16px; border-right: 1px solid #373737; text-shadow: 0 1px 2px #000; transition: color .2s ease, background .2s ease, box-shadow .2s ease; }
+.nav-link::before { position: absolute; inset: 0 0 auto; height: 3px; content: ''; background: linear-gradient(90deg, transparent, #9d2119, transparent); opacity: 0; transition: opacity .2s ease; }
+.nav-link:last-child { border-right: 0; }
+.nav-link:hover, .nav-link:focus-visible { color: #fff; background: linear-gradient(180deg, rgba(141,29,20,.72), rgba(24,7,5,.5)); box-shadow: inset 0 -3px 0 #9d2119; outline: none; }
+.nav-link:hover::before, .nav-link:focus-visible::before { opacity: 1; }
+.nav-email { border-radius: 0; border: 0; border-right: 1px solid #373737; background: transparent; color: #ededed; padding: 13px 16px; font-size: 11px; font-weight: 500; text-shadow: 0 1px 2px #000; }
+.nav-email:hover { transform: none; color: #fff; box-shadow: inset 0 -3px 0 #9d2119; background: linear-gradient(180deg, rgba(141,29,20,.72), rgba(24,7,5,.5)); }
 .social-pill { display: inline-flex; align-items: center; gap: 8px; border: 1px solid rgba(255,255,255,.14); border-radius: 999px; padding: 6px 11px 6px 7px; color: #b4b4ba; font-size: 11px; } .social-pill img { width: 24px; height: 24px; border-radius: 50%; object-fit: cover; }
   .social-pill:hover { border-color: #a78bfa; color: white; }
   .whatsapp-fab { position: fixed; right: 22px; bottom: 22px; z-index: 40; display: grid; place-items: center; width: 62px; height: 62px; border-radius: 999px; background: #25d366; box-shadow: 0 10px 30px rgba(0,0,0,.38), 0 0 0 5px rgba(37,211,102,.12); transition: transform .2s ease, box-shadow .2s ease; }
