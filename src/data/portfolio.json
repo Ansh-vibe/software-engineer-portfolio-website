@@ -49,6 +49,11 @@
     { "id": "ansh-portfolio", "title": "Ansh Portfolio Website", "subtitle": "Personal portfolio website", "description": "The original personal portfolio website presenting Ansh's work, skills and experience.", "stack": ["HTML", "CSS", "JavaScript"], "role": "Full-Stack Developer", "year": "2026", "link": "https://Ansh-vibe.github.io/ansh-portfolio-website/", "github": "https://github.com/Ansh-vibe/ansh-portfolio-website", "image": "", "highlight": false },
     { "id": "github-bedges", "title": "GitHub Badges", "subtitle": "GitHub profile achievement project", "description": "A small project created to support GitHub profile achievements and developer identity.", "stack": ["GitHub", "Markdown"], "role": "Developer", "year": "2026", "link": "https://github.com/Ansh-vibe/github_bedges", "github": "https://github.com/Ansh-vibe/github_bedges", "image": "", "highlight": false }
   ],
+  "certifications": [
+    { "id": "cisco-networking", "name": "Networking Basics", "issuer": "Cisco Networking Academy", "description": "Foundational networking credential covering network devices, connectivity, IP addressing and core troubleshooting concepts.", "year": "2026", "credentialUrl": "https://www.linkedin.com/in/v-ansh", "previewLabel": "NETWORKING BASICS", "accent": "#1d4ed8" },
+    { "id": "aws-foundations", "name": "AWS Foundations", "issuer": "Amazon Web Services", "description": "Cloud fundamentals covering core AWS services, cloud concepts, security principles and deployment foundations.", "year": "2026", "credentialUrl": "https://www.linkedin.com/in/v-ansh", "previewLabel": "AWS FOUNDATIONS", "accent": "#f97316" },
+    { "id": "cybersecurity-internship", "name": "Cybersecurity Internship", "issuer": "Codec Technologies India · CodeAlpha", "description": "Practical internship experience in vulnerability assessment, threat detection labs and secure software-development practices.", "year": "2025", "credentialUrl": "https://www.linkedin.com/in/v-ansh", "previewLabel": "CYBERSECURITY", "accent": "#a855f7" }
+  ],
   "education": [{ "degree": "Bachelor of Computer Applications (BCA)", "institution": "Axis Colleges, Kanpur", "university": "CSJM University", "period": "2024 — 2027", "grade": "CGPA: 7.62" }],
   "testimonials": []
 }

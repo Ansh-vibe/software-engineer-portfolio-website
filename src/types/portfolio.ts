@@ -5,7 +5,8 @@ export type Project = { id: string; title: string; subtitle: string; description
 export type SkillCategory = { name: string; items: string[] }
 export type Service = { name: string; description: string }
 export type Testimonial = { id: string; quote: string; name: string; role: string; avatarColor: string }
-export type Portfolio = { profile: Profile; skills: { categories: SkillCategory[] }; experience: Experience[]; services: Service[]; projects: Project[]; education: { degree: string; institution: string; university?: string; period: string; grade: string }[]; testimonials: Testimonial[] }
+export type Certification = { id: string; name: string; issuer: string; description: string; year: string; credentialUrl: string; previewLabel: string; accent: string }
+export type Portfolio = { profile: Profile; skills: { categories: SkillCategory[] }; experience: Experience[]; services: Service[]; projects: Project[]; certifications: Certification[]; education: { degree: string; institution: string; university?: string; period: string; grade: string }[]; testimonials: Testimonial[] }
 import raw from '@/src/data/portfolio.json'
 export const portfolio = raw as Portfolio
 export function usePortfolio(): Portfolio { return portfolio }
