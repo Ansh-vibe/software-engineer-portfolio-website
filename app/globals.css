@@ -44,6 +44,8 @@ section { scroll-margin-top: 80px; }
 .testimonial-card { width: min(380px, 80vw); margin-right: 18px; border: 1px solid rgba(255,255,255,.1); border-radius: 16px; background: #121212; padding: 28px; }
 @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .marquee-track { animation: none; overflow-x: auto; scroll-snap-type: x mandatory; } .testimonial-card { scroll-snap-align: start; } }
+.nav-email { border: 1px solid rgba(255,255,255,.24); border-radius: 999px; background: #fff; color: #111; padding: 9px 13px; font-size: 11px; font-weight: 700; transition: transform .25s ease, box-shadow .25s ease; }
+.nav-email:hover { transform: translateY(-1px); box-shadow: 0 6px 18px rgba(255,255,255,.14); }
 .theme-toggle { position: relative; cursor: pointer; transition: transform .25s ease, filter .25s ease; }
 .theme-toggle:hover { transform: translateY(-1px); filter: brightness(1.08); }
 .theme-toggle img { transition: transform .35s cubic-bezier(.2,.8,.2,1), filter .35s ease; }
