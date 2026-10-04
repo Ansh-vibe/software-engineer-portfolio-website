@@ -12,10 +12,20 @@
     "social": { "github": "https://github.com/Ansh-vibe", "instagram": "", "linkedin": "https://linkedin.com/in/v-ansh", "email": "contact.ansh03@gmail.com", "phone": "+91 84003 85071", "website": "https://ansh-vibe.github.io/ansh-portfolio-website" }
   },
   "skills": { "categories": [
-    { "name": "Languages", "items": ["C", "Python", "Java", "SQL", "JavaScript ES6+"] },
-    { "name": "Frontend", "items": ["React.js", "Next.js", "HTML5", "CSS3", "Tailwind CSS"] },
-    { "name": "Data & Analytics", "items": ["Pandas", "Power BI", "MS Excel", "KPI Analysis"] },
-    { "name": "Systems", "items": ["MongoDB", "REST APIs", "TCP/IP", "Git", "AWS Foundations", "Vercel"] }
+    { "name": "Programming Languages", "items": ["C", "C++", "Java", "Python", "JavaScript (ES6+)", "SQL"] },
+    { "name": "Frontend Development", "items": ["HTML5", "CSS3", "React.js", "Next.js", "Tailwind CSS", "Responsive Web Design", "UI Development"] },
+    { "name": "Backend & APIs", "items": ["REST APIs", "API Integration", "Node.js / Backend Fundamentals", "CRM Integration", "Authentication & Authorization Fundamentals"] },
+    { "name": "Database & Data", "items": ["MongoDB", "SQL / Relational Databases", "DBMS", "Pandas", "Data Cleaning", "Data Analysis", "Data Visualization"] },
+    { "name": "Data & Performance Analytics", "items": ["Power BI", "Microsoft Excel", "KPI & Metric Evaluation", "Performance Monitoring", "Latency Analysis", "Throughput Analysis", "Availability Monitoring", "Packet Loss Analysis", "Threshold-Based Anomaly Detection", "Reporting & Dashboards"] },
+    { "name": "Networking", "items": ["TCP/IP", "OSI Model", "DNS", "Routing", "IPv4 / IPv6", "Wireless Networking", "Network Performance Monitoring"] },
+    { "name": "Cloud & Deployment", "items": ["AWS Foundations", "Vercel", "Cloud Deployment Fundamentals", "Web Application Deployment"] },
+    { "name": "Tools & Engineering", "items": ["Git", "GitHub", "VS Code", "Debugging", "Version Control", "Software Development Practices"] },
+    { "name": "Core Computer Science", "items": ["Data Structures & Algorithms", "Object-Oriented Programming", "Database Management Systems", "Operating Systems", "Computer Networks", "Computer Science Fundamentals"] },
+    { "name": "Communication", "items": ["Verbal & Written Communication", "English & Hindi Communication", "Active Listening", "Presentation Skills", "Query Handling", "Technical Communication"] },
+    { "name": "Problem Solving", "items": ["Analytical Thinking", "Problem Solving", "Debugging & Troubleshooting", "Critical Thinking", "Decision Making", "Attention to Detail"] },
+    { "name": "Collaboration", "items": ["Team Collaboration", "Relationship Building", "Client Collaboration", "Cross-Functional Collaboration", "Knowledge Sharing"] },
+    { "name": "Professional Skills", "items": ["Time Management", "Adaptability", "Self-Motivation", "Target-Oriented Approach", "Persistence", "Coachability", "Quick Learning", "Accountability"] },
+    { "name": "Client & Customer Skills", "items": ["Customer Engagement", "Needs Discovery", "Customer-First Approach", "Query Resolution", "Lead Engagement", "Follow-Up Management", "Ethical Selling", "Learner/Candidate Counselling"] }
   ] },
   "experience": [
     { "company": "OREN Website Development Services", "role": "Founder & Lead Full-Stack Engineer", "period": "Apr 2026 — Present", "location": "Kanpur, India / Remote", "summary": "Building production web solutions for businesses while owning the complete product lifecycle from discovery and wireframes to deployment.", "highlights": ["Built and deployed 3+ production Next.js/React websites for Cape Town hospitality clients with custom booking and menu flows.", "Cut client time-to-market by approximately 40% through streamlined development and deployment workflows.", "Owned wireframing, CRM integration, deployment and product delivery, contributing to approximately 30% higher client lead conversion."] },
