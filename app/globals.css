@@ -44,4 +44,30 @@ section { scroll-margin-top: 80px; }
 .testimonial-card { width: min(380px, 80vw); margin-right: 18px; border: 1px solid rgba(255,255,255,.1); border-radius: 16px; background: #121212; padding: 28px; }
 @keyframes marquee { from { transform: translateX(0); } to { transform: translateX(-50%); } }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } .marquee-track { animation: none; overflow-x: auto; scroll-snap-type: x mandatory; } .testimonial-card { scroll-snap-align: start; } }
+.theme-toggle { position: relative; cursor: pointer; transition: transform .25s ease, filter .25s ease; }
+.theme-toggle:hover { transform: translateY(-1px); filter: brightness(1.08); }
+.theme-toggle img { transition: transform .35s cubic-bezier(.2,.8,.2,1), filter .35s ease; }
+.theme-toggle.is-on img { transform: translateX(18px); filter: brightness(1.18) saturate(.78); }
+:root.light-mode { color-scheme: light; --background: #f4f4f1; --foreground: #17171a; --border: rgba(24,24,27,.12); }
+.light-mode body { background: #f4f4f1; color: #17171a; }
+.light-mode .hero-heading { background: linear-gradient(180deg, #353943 0%, #737b87 100%); -webkit-background-clip: text; background-clip: text; }
+.light-mode .nav-link { color: #62636b; }
+.light-mode .nav-link:hover { color: #17171a; }
+.light-mode header { border-color: rgba(24,24,27,.12); background: rgba(244,244,241,.82); }
+.light-mode .hero-glow { background: radial-gradient(ellipse, rgba(168,85,247,.16), transparent 65%); }
+.light-mode .avatar-frame { border-color: rgba(24,24,27,.16); background: #e7e7e2; box-shadow: 0 0 80px rgba(168,85,247,.12), 0 24px 70px rgba(24,24,27,.14); }
+.light-mode .text-zinc-300 { color: #34343b; }
+.light-mode .text-zinc-400 { color: #575861; }
+.light-mode .text-zinc-500 { color: #686971; }
+.light-mode .text-zinc-600 { color: #85868d; }
+.light-mode .border-white\/8 { border-color: rgba(24,24,27,.1); }
+.light-mode .border-white\/10 { border-color: rgba(24,24,27,.12); }
+.light-mode .bg-\[\#121212\] { background: #e9e9e5; }
+.light-mode .bg-\[\#171717\] { background: #deded9; }
+.light-mode .project-card, .light-mode .testimonial-card { border-color: rgba(24,24,27,.12); background: #e9e9e5; }
+.light-mode .project-visual { border-color: rgba(24,24,27,.1); }
+.light-mode .chip, .light-mode .mono-pill, .light-mode .social-pill { border-color: rgba(24,24,27,.14); color: #575861; }
+.light-mode .social-pill:hover { color: #17171a; }
+.light-mode .text-white { color: #17171a; }
+
 @media (max-width: 767px) { .section-shell { padding: 96px 20px; } .project-card { position: relative; top: auto; } .project-visual { height: 210px; } }
